@@ -200,12 +200,6 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "fixnum",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///home/crizma/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -216,12 +210,6 @@
       "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/flutter_downloader-1.12.0",
       "packageUri": "lib/",
       "languageVersion": "3.6"
-    },
-    {
-      "name": "flutter_google_maps_webservices",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/flutter_google_maps_webservices-1.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "flutter_html",
@@ -344,42 +332,6 @@
       "languageVersion": "3.8"
     },
     {
-      "name": "geolocator",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/geolocator-10.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
-    },
-    {
-      "name": "geolocator_android",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/geolocator_android-4.6.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
-      "name": "geolocator_apple",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.12",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
-      "name": "geolocator_platform_interface",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/geolocator_platform_interface-4.2.5",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
-      "name": "geolocator_web",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/geolocator_web-2.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
-    },
-    {
-      "name": "geolocator_windows",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/geolocator_windows-0.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
       "name": "google_api_headers",
       "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/google_api_headers-4.4.3",
       "packageUri": "lib/",
@@ -426,12 +378,6 @@
       "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/google_maps_flutter_web-0.5.12",
       "packageUri": "lib/",
       "languageVersion": "3.4"
-    },
-    {
-      "name": "google_maps_place_picker_mb",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/google_maps_place_picker_mb-3.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "html",
@@ -854,12 +800,6 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "sprintf",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "stack_trace",
       "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/stack_trace-1.12.1",
       "packageUri": "lib/",
@@ -942,12 +882,6 @@
       "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
-    },
-    {
-      "name": "uuid",
-      "rootUri": "file:///home/crizma/.pub-cache/hosted/pub.dev/uuid-4.5.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "validators",

@@ -66,22 +66,6 @@
       ]
     },
     {
-      "name": "google_maps_place_picker_mb",
-      "version": "3.1.2",
-      "dependencies": [
-        "flutter",
-        "flutter_google_maps_webservices",
-        "geolocator",
-        "google_api_headers",
-        "google_maps_flutter",
-        "http",
-        "package_info_plus",
-        "provider",
-        "tuple",
-        "uuid"
-      ]
-    },
-    {
       "name": "google_api_headers",
       "version": "4.4.3",
       "dependencies": [
@@ -495,42 +479,6 @@
       "dependencies": []
     },
     {
-      "name": "uuid",
-      "version": "4.5.1",
-      "dependencies": [
-        "crypto",
-        "fixnum",
-        "meta",
-        "sprintf"
-      ]
-    },
-    {
-      "name": "tuple",
-      "version": "2.0.2",
-      "dependencies": []
-    },
-    {
-      "name": "flutter_google_maps_webservices",
-      "version": "1.1.1",
-      "dependencies": [
-        "http",
-        "json_annotation",
-        "meta"
-      ]
-    },
-    {
-      "name": "geolocator",
-      "version": "10.1.1",
-      "dependencies": [
-        "flutter",
-        "geolocator_android",
-        "geolocator_apple",
-        "geolocator_platform_interface",
-        "geolocator_web",
-        "geolocator_windows"
-      ]
-    },
-    {
       "name": "logger",
       "version": "2.5.0",
       "dependencies": []
@@ -799,6 +747,11 @@
       "dependencies": [
         "flutter"
       ]
+    },
+    {
+      "name": "tuple",
+      "version": "2.0.2",
+      "dependencies": []
     },
     {
       "name": "flutter_svg",
@@ -1129,61 +1082,6 @@
       "name": "characters",
       "version": "1.4.0",
       "dependencies": []
-    },
-    {
-      "name": "fixnum",
-      "version": "1.1.1",
-      "dependencies": []
-    },
-    {
-      "name": "sprintf",
-      "version": "7.0.0",
-      "dependencies": []
-    },
-    {
-      "name": "geolocator_windows",
-      "version": "0.2.4",
-      "dependencies": [
-        "flutter",
-        "geolocator_platform_interface"
-      ]
-    },
-    {
-      "name": "geolocator_web",
-      "version": "2.2.1",
-      "dependencies": [
-        "flutter",
-        "flutter_web_plugins",
-        "geolocator_platform_interface"
-      ]
-    },
-    {
-      "name": "geolocator_apple",
-      "version": "2.3.12",
-      "dependencies": [
-        "flutter",
-        "geolocator_platform_interface"
-      ]
-    },
-    {
-      "name": "geolocator_android",
-      "version": "4.6.2",
-      "dependencies": [
-        "flutter",
-        "geolocator_platform_interface",
-        "meta",
-        "uuid"
-      ]
-    },
-    {
-      "name": "geolocator_platform_interface",
-      "version": "4.2.5",
-      "dependencies": [
-        "flutter",
-        "meta",
-        "plugin_platform_interface",
-        "vector_math"
-      ]
     },
     {
       "name": "stream_transform",
